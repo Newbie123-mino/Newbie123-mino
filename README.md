@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there!!! 👋 I'm Adib  
 
-<!--
-**Newbie123-mino/Newbie123-mino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning *C++ & GitHub*  
+💻 My projects: [My Repositories](https://github.com/your-username?tab=repositories)  
+📫 How to reach me: adibsoffee@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My GitHub Stats  
+![Newbie123-mino's Github stats](https://github-readme-stats.vercel.app/api?username=Newbie123-mino&show_icons=true&theme=radical)
+
+### 🏆 GitHub Achievements  
+![Newbie123-mino's GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Newbie123-mino&theme=dracula&column=3)
+
+---
+
+⭐️ Check out my projects and feel free to collaborate! 😃
